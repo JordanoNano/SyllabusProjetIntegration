@@ -1,6 +1,6 @@
-# 📱 Projet .NET MAUI – Application mobile pour la Ville de Liège
+# Projet .NET MAUI – Application mobile pour la Ville de Liège
 
-## 🔍 Contexte
+## Contexte
 
 Vous êtes développeur. Votre plus gros client, **la Ville de Liège**, montre un vif intérêt pour les solutions **MOBILES** concurrentes.  
 Il est **urgent** de proposer une application moderne et performante, réalisée avec **.NET MAUI**.
@@ -35,17 +35,22 @@ Il est **urgent** de proposer une application moderne et performante, réalisée
 
 ---
 
-## ⏰ Planning de passage
+## Planning de passage
 
 - **Support de présentation** : PowerPoint, Markdown, Slides...
 - **Durée de la présentation** : 30 minutes par étudiant + échanges.
 - **Remise d’une version papier** du projet (pour archivage).
 
 17h30
+
 18h
+
 18h30
+
 19h
 
 17h30
+
 18h
+
 18h30
