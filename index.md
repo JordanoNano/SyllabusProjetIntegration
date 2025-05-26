@@ -34,40 +34,16 @@ Il est **urgent** de proposer une application moderne et performante, réalisée
 
 Quelques pistes : 
 
-  SQLite embarqué
-
-  Affichage d’une liste de produits avec image, nom et prix (CollectionView ou VerticalStackLayout ?)
-
-  Écran de détail d’un produit avec bouton "Ajouter au panier"
-
-  Page "Panier" avec liste des produits ajoutés et total calculé
-
-  Utilisation de boutons, icônes, couleurs cohérentes
-
-  Écran d’accueil avec un logo et un bouton "Entrer"
-
-Fonctionnalités "basiques"
-
-  Ajout au panier avec une simple ObservableCollection
-
-  Calcul automatique du prix total dans le panier
-
-  Navigation entre pages avec Navigation.PushAsync(?)
-
-  Stockage des données en mémoire (pas besoin de base de données)
-
-  Utilisation de styles simples (couleurs, marges, police)
-
-  Persistance locale basique du panier via "Preferences"
-
-  Filtrage ou tri dans la liste de produits
-
-  Ajout d’une icône panier dans le header (avec compteur ? )
-
-  Images des produits chargées depuis un dossier local
-
- -> c'est une liste non exhaustive mais vu le timing serré pour apprendre cette nouvelle technologie, on verra où nous en seront mais jouez le jeu au max ! 
-
+- Installer MAUI
+- Installer l'émulateur Android
+- Créer un premier projet avec le sample
+- Explorer le projet pour en comprendre son fonctionnement
+- Créer un nouveau projet, cette fois sans sample
+- Créer une première vue statique grace au XAML
+- Voir comment utiliser SQLite intégré
+- Créer une table "test"
+- Créer une vue qui permettra d'aller rechercher un élément de la table
+  
 ---
 
 ## Planning de passage
