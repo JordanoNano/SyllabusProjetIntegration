@@ -39,6 +39,7 @@ Quelques pistes :
 - Créer un premier projet avec le sample
 - Explorer le projet pour en comprendre son fonctionnement
 - Créer un nouveau projet, cette fois sans sample
+- Suivre le tuto sur la doc officielle !!!
 - Créer une première vue statique grace au XAML
 - Voir comment utiliser SQLite intégré
 - Créer une table "test"
