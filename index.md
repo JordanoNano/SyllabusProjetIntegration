@@ -53,16 +53,19 @@ Quelques pistes :
 - **Durée de la présentation** : 30 minutes par étudiant + échanges.
 - **Remise d’une version papier** du projet (pour archivage).
 
-17h30
 
-18h
+Vendredi 20 :
+17h Jordan
 
-18h30
+17h30 Hamza
 
-19h
+18h David
 
-17h30
+18h30 Alex  
 
-18h
+Lundi 23:
+17h30 Michel
 
-18h30
+18h Corentin
+
+18h30 Joachim
